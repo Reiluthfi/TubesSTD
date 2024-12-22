@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1734011358 source:d:\kampus\semester 3\struktur data\tubes\tubes\graph.cpp
+	"Graph.h"
+
+1734011358 d:\kampus\semester 3\struktur data\tubes\tubes\graph.h
+	<iostream>
+
+1734011358 source:d:\kampus\semester 3\struktur data\tubes\tubes\main.cpp
+	<iostream>
+	"Graph.h"
+	<limits>
+
+1734789886 source:c:\users\asus\downloads\tubes v1\tubes\graph.cpp
+	"Graph.h"
+
+1734860398 c:\users\asus\downloads\tubes v1\tubes\graph.h
+	<iostream>
+
+1734885924 source:d:\kampus\semester 3\tubes\tubes v11\tubes v1\tubes\main.cpp
+	<iostream>
+	"Graph.h"
+	<limits>
+
+1734885924 d:\kampus\semester 3\tubes\tubes v11\tubes v1\tubes\graph.h
+	<iostream>
+
