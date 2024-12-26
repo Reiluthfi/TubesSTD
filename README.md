@@ -5,7 +5,7 @@ A B C D E F # //
 //create edge  
 A B  
 A C  
-A D  
+A F  
 F A  
 A E  
 E C  
